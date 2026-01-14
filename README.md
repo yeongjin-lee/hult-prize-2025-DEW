@@ -46,7 +46,7 @@ The platform:
 ---
 
 ## 📊 Deliverables
-- 📄 **Pitch Deck:** [`pitch_deck.pdf`](./pitch_deck.pdf)
+- 📄 **Pitch Deck:** [`pitch_deck_.pdf`](./pitch_deck_.pdf)
 - 🎥 **Demo / Pitch Video:** see `media/demo_video_link.txt`
 
 ---
